@@ -2,8 +2,8 @@
 
 * **Universidad:** Universidad Nacional Guillermo Brown (UNaB)
 * **Materia:** Programación Concurrente y Distribuida
-* **Proyecto Seleccionado:** Proyecto 2 — Conway's Game of Life con Grilla Masiva
-* **Integrantes:** [Completar con los nombres del grupo]
+* **Proyecto Seleccionado:** Proyecto — Conway's Game of Life con Grilla Masiva
+* **Integrantes:** Federico Siboldi — Juan Pablo Vega
 
 ## Estructura del Repositorio
 * `hito-1/`: Implementación en CPU (Secuencial vs Multiprocessing) y análisis de Speedup.

@@ -2,7 +2,8 @@
 
 **Cátedra:** Programación Concurrente y Paralela — UNaB  
 **Docente:** Lic. Angel Leonardo Bianco  
-**Proyecto:** Simulación de Grilla Masiva con Paralelismo de Datos (GPU)  
+**Proyecto:** Simulación de Grilla Masiva con Paralelismo de Datos (GPU) 
+**Integrantes:** Federico Siboldi — Juan Pablo Vega 
 
 ---
 
