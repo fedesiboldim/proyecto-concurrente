@@ -9,6 +9,8 @@
 
 ## 1. Introducción y Arquitectura Experimental
 El presente proyecto analiza y optimiza la ejecución del autómata celular bidimensional *Conway's Game of Life* sobre grillas de alta resolución (hasta $8192 \times 8192$, equivalente a 67.1 millones de celdas). Se exploró la evolución desde el modelo de memoria compartida en CPU multicore hasta la aceleración masivamente paralela en GPU mediante CUDA.
+**Notebook interactivo (Reproducibilidad**)
+Abrir en Google Colab https://colab.research.google.com/drive/1KtSENNEBEP99Fp-0LqGzcR8aLQgTajOd#scrollTo=T5Soi9I6bdbT
 
 ### Entorno de Hardware y Software:
 * **CPU Host:** Procesador de 8 núcleos lógicos bajo Windows 11.

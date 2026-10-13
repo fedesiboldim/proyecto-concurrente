@@ -11,3 +11,8 @@
 * `hito-3/`: Kernel optimizado con Shared Memory (Tiling), barreras syncthreads y escala hasta 8K.
 * `hito-4/`: Pipeline integral con arquitectura Manager/Worker.
 * `informes/`: Informe técnico consolidado de la cursada.
+
+## Entorno y Reproducibilidad
+Los experimentos y benchmarks sobre GPU NVIDIA Tesla T4 pueden ejecutarse y reproducirse directamente en Google Colab:
+
+[![Open In Colab] https://colab.research.google.com/drive/1KtSENNEBEP99Fp-0LqGzcR8aLQgTajOd#scrollTo=T5Soi9I6bdbT
