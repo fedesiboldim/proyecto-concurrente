@@ -48,7 +48,7 @@ El presente proyecto analiza y optimiza la ejecución del autómata celular bidi
 ### Hito 4: Pipeline Integrado y Desglose de Transferencias
 - Se integró el flujo completo bajo el modelo Manager/Worker midiendo por separado el envío inicial ($T_{H2D}$), la ejecución de múltiples generaciones residentes en VRAM ($T_{kernel}$) y la descarga final ($T_{D2H}$), eliminando transferencias intermedias por el bus PCIe.
 
-![Simulación del Juego de la Vida en GPU](simulacion_game_of_life.png)
+![Simulación del Juego de la Vida en GPU](../simulacion_game_of_life.png)
 
 ---
 
